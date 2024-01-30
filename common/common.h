@@ -5,6 +5,6 @@
 #include <stdlib.h>
 #include "string.h"
 
-#define Element_t int
+#define Element_t int   // 默认测试中元素为int类型
 
 #endif //COMMON_H
